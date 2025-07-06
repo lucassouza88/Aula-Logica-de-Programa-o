@@ -22,6 +22,3 @@ Um jogo simples onde você tenta adivinhar um número secreto entre 1 e 100. Voc
 - Controle de tentativas
 - Interface amigável
 
----
-
-Feito por [Seu Nome] ✨
